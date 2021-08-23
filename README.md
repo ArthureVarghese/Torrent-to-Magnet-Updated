@@ -12,7 +12,7 @@ Suppose that your Python 3 interpreter is ``python`` and that the torrent file y
 ```bash
 python torrent2magnet.py /path/to/my/file.torrent
 ```
-
+# Changes
 Minor Changes in code to print all trackers present in the torrent file.
 
 thanks to DanySK(https://github.com/DanySK)
