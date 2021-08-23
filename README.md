@@ -15,4 +15,4 @@ python torrent2magnet.py /path/to/my/file.torrent
 # Changes
 Minor Changes in code to print all trackers present in the torrent file.
 
-thanks to DanySK(https://github.com/DanySK)
+thanks to [DanySK](https://github.com/DanySK)
